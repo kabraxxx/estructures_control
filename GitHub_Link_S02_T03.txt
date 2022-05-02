@@ -1,1 +1,1 @@
-https://github.com/kabraxxx/estructures_dades.git
+https://github.com/kabraxxx/estructures_control.git
